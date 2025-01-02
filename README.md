@@ -46,8 +46,3 @@ D --> E[Creating Data Visualizations with Tableau and Power BI]
 E --> F[Working on Real-world Projects]
 F --> G[Aspiring Data Scientist]
 
-## Projects
-Here are a few projects I've worked on:
-
-Data Cleaning Project: Cleaned and preprocessed raw data to make it suitable for analysis.
-Exploratory Data Analysis (EDA) Project: Conducted in-depth exploratory data analysis to uncover insights and trends.```

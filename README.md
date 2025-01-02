@@ -1,5 +1,3 @@
-
-Markdown
 # Hi there, I'm Jeevajothiga 👋
 
 Welcome to my GitHub profile! I'm a computer science engineer with a deep passion for data science and uncovering insights from data. I love working on data projects, from cleaning and exploration to building machine learning models.
@@ -48,42 +46,9 @@ C --> D[Building Machine Learning Models with TensorFlow]
 D --> E[Creating Data Visualizations with Tableau and Power BI]
 E --> F[Working on Real-world Projects]
 F --> G[Aspiring Data Scientist]
+
 🌟 Projects
 Here are a few projects I've worked on:
 
 Data Cleaning Project: Cleaned and preprocessed raw data to make it suitable for analysis.
 Exploratory Data Analysis (EDA) Project: Conducted in-depth exploratory data analysis to uncover insights and trends.
-🤖 Fun with Machine Learning
-Random Forest Classifier Example
-Here's a quick example of a Random Forest Classifier in Python:
-
-Python
-# Import necessary libraries
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
-
-# Load dataset
-data = pd.read_csv('your-dataset.csv')
-
-# Preprocess data
-X = data.drop('target', axis=1)
-y = data['target']
-
-# Split data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Initialize and train the model
-model = RandomForestClassifier(n_estimators=100, random_state=42)
-model.fit(X_train, y_train)
-
-# Make predictions
-predictions = model.predict(X_test)
-
-# Evaluate the model
-accuracy = accuracy_score(y_test, predictions)
-print(f'Accuracy: {accuracy * 100:.2f}%')
-Feel free to explore my repositories and contribute if you find something interesting!
-
-Thank you for visiting my profile. Have a great day! 😊

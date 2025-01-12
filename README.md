@@ -46,3 +46,4 @@ D --> E[Creating Data Visualizations with Tableau and Power BI]
 E --> F[Working on Real-world Projects]
 F --> G[Aspiring Data Scientist]
 
+![Jeevajothiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevajothiga&show_icons=true&theme=radical)

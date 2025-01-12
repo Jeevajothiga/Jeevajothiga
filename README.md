@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm a computer science engineer with a deep passio
 
 ![Jeevajothiga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeevajothiga&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevajothiga&layout=compact&theme=radical)
+
 ![Jeevajothiga's Contribution Graph](https://github-contributions-canvas.vercel.app/api?username=Jeevajothiga&hide_border=true&theme=radical)
 ## 📊 My Data Science Journey
 

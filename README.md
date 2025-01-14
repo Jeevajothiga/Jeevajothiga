@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a computer science engineer with a deep passio
 - 💬 **Ask me about:** Data cleaning, exploratory data analysis, and machine learning.
 - 📫 **How to reach me:** [Email](jojeevaviji@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jeeva-jothiga-v-236a201a9/)
 - 😄 **Pronouns:** she/her
-
+ 
 
 ## 🛠️ Skills
 

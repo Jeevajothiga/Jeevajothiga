@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a computer science engineer with a deep passio
  
 
 ## 🛠️ Skills
-
+  
 ### Languages
 - **Python**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **SQL**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
